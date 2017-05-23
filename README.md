@@ -1,24 +1,17 @@
-# README
+# Requirement
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 2.4
 
-Things you may want to cover:
+# Database creation & initialization
+ 
 
-* Ruby version
+# Run test
 
-* System dependencies
 
-* Configuration
+# Deployment instructions
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+# To do
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Add caching

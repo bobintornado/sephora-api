@@ -1,0 +1,131 @@
+# Common configuration.
+AllCops:
+  TargetRubyVersion: 2.4
+
+AccessorMethodName:
+  Enabled: true
+
+AlignHash:
+  Enabled: true
+
+AlignParameters:
+  Enabled: true
+
+AndOr:
+  Enabled: true
+
+AssignmentInCondition:
+  Enabled: true
+
+BlockAlignment:
+  Enabled: true
+
+BracesAroundHashParameters:
+  Enabled: true
+
+CaseEquality:
+  Enabled: true
+
+ClassVars:
+  Enabled: true
+
+ClassLength:
+  Enabled: false
+
+CommentAnnotation:
+  Enabled: true
+
+ConstantName:
+  Enabled: true
+
+CyclomaticComplexity:
+  Max: 10
+  Enabled: false
+
+Documentation:
+  Enabled: false
+
+EmptyLiteral:
+  Enabled: true
+
+Encoding:
+  Enabled: false
+
+EndAlignment:
+  Enabled: true
+
+HashSyntax:
+  Enabled: true
+
+IfUnlessModifier:
+  Enabled: true
+
+IndentationWidth:
+  Enabled: true
+
+Lambda:
+  Enabled: true
+
+LeadingCommentSpace:
+  Enabled: true
+
+LineLength:
+  Max: 160
+
+MethodLength:
+  Max: 30
+  Enabled: false
+
+ModuleLength:
+  Enabled: false
+
+NumericLiterals:
+  Enabled: true
+
+ParenthesesAroundCondition:
+  Enabled: true
+
+PerceivedComplexity:
+  Enabled: false
+
+PredicateName:
+  Enabled: true
+
+RedundantBegin:
+  Enabled: true
+
+RedundantSelf:
+  Enabled: true
+
+RegexpLiteral:
+  Enabled: true
+
+RescueException:
+  Enabled: false
+
+SignalException:
+  Enabled: true
+
+SingleLineBlockParams:
+  Enabled: true
+
+SpaceInsideHashLiteralBraces:
+  Enabled: true
+
+SpaceInsideParens:
+  Enabled: true
+
+StringLiterals:
+  Enabled: true
+
+TrailingBlankLines:
+  Enabled: true
+
+UnlessElse:
+  Enabled: true
+
+UnreachableCode:
+  Enabled: true
+
+UselessAssignment:
+  Enabled: true
